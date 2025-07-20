@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Enzo Ricardo
 
-🎓 Estudante de Sistemas de Informação na PUCPR - 4° 
+🎓 Estudante de Sistemas de Informação na PUCPR - 4°P
 
 ## 💻  Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -12,7 +12,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-## 📈 GitHub Stats
+## 📈 Status GitHub
 ![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoricardo&show_icons=true&theme=tokyonight)
 
 ## 🌐 Contato
