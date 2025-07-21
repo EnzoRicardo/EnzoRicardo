@@ -19,4 +19,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/enzoricardo)](https://linkedin.com/in/enzoricardo)
 📧 enzoricardodeoliveira@gmail.com  
 
-![snake gif](https://github.com/enzoricardo/enzoricardo/blob/output/github-contribution-grid-snake.svg)
+
